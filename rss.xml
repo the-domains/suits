@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Eesti disaini blogi]]></title>
         <description><![CDATA[Eesti disaini blogi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eestidisainiblogi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jul 2016 17:04:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jul 2016 17:04:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eestidisainiblogi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[11 küsimust: Uudishimulik ja töökas tekstiilidisainer Monika Järg]]></title>
             <description><![CDATA[<article><h1>11 küsimust: Uudishimulik ja töökas tekstiilidisainer Monika Järg</h1><p>Milliste sõnadega ennast tutvustaksid? Uudishimulik, julge, kiire, tõhus, kannatlik, töökas. Kust kõik alguse sai ja mis on teinud sinust selle, kes oled? Olen linnas sündinud maalaps, lapsepõlvesuved veetnud maal vanaema juures. Tean, kust ja kuidas tuleb piim ja kartul ning millist tööd ja koostegemist see nõuab.</p><img src="http://g4.nh.ee/images/pix/file74782817_3_monika_jarg_pohl_hd.jpg"></article>]]></description>
             <link>http://moodnekodu.delfi.ee/news/sisustusjadisain/11-kusimust-uudishimulik-ja-tookas-tekstiilidisainer-monika-jarg?id=74782743</link>
             <guid isPermaLink="false">95ccba2b-7cfb-4542-99b6-1b5ea2e178c9</guid>
-            <pubDate>Tue, 05 Jul 2016 17:04:25 GMT</pubDate>
+            <pubDate>Tue, 05 Jul 2016 17:04:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
