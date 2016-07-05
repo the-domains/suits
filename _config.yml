@@ -1,4 +1,3 @@
-layout_spectrum: 0.3371480558998883
 typography_spectrum: 0.7889673942700028
 color:
   brandStrength: 0.9638212556019425
@@ -11,4 +10,9 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-name: Eesti disaini blogi
+layout_spectrum: 0.3371480558998883
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/84df7a42-163c-43dc-b1e0-3f3b169201c7.png
+name: Ehestu disaini blogi
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/35dedc05-39e4-4ee6-89c5-f966fb53849a.png
