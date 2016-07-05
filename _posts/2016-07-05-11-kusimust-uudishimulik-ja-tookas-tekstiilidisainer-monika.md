@@ -21,11 +21,11 @@ app_links: []
 isBasedOnUrl: >-
   http://moodnekodu.delfi.ee/news/sisustusjadisain/11-kusimust-uudishimulik-ja-tookas-tekstiilidisainer-monika-jarg?id=74782743
 title: '11 küsimust: Uudishimulik ja töökas tekstiilidisainer Monika Järg'
-datePublished: '2016-07-05T17:04:25.736Z'
-dateModified: '2016-07-05T17:04:14.652Z'
+datePublished: '2016-07-05T17:04:04.655Z'
+dateModified: '2016-07-05T17:03:50.462Z'
+starred: false
 sourcePath: >-
   _posts/2016-07-05-11-kusimust-uudishimulik-ja-tookas-tekstiilidisainer-monika.md
-starred: false
 inFeed: true
 hasPage: false
 inNav: false
