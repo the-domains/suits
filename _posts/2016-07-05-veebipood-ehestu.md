@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-05T17:34:12.312Z'
+datePublished: '2016-07-05T17:34:21.139Z'
 isBasedOnUrl: 'https://ehestu.ee/'
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-05T17:33:53.742Z'
+dateModified: '2016-07-05T17:34:20.518Z'
 title: Veebipood Ehestu
 app_links: []
 publisher:
@@ -17,8 +17,8 @@ description: >-
   Ehestu on eesti disaini ja kunsti veebipood, kes keskendub eesti noortele
   kunstnikele ja loodab viia kokku loojad tarbijatega lihtsustamaks mõlema poole
   elu.
-starred: false
 sourcePath: _posts/2016-07-05-veebipood-ehestu.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
