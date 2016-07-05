@@ -1,0 +1,14 @@
+layout_spectrum: 0.3371480558998883
+typography_spectrum: 0.7889673942700028
+color:
+  brandStrength: 0.9638212556019425
+  lightness: 0.6419771192595363
+  saturation: 0.9441165095195174
+  rhythmicContrast: 0.4268211384769529
+  brandColors:
+    - '#E8E595'
+    - '#D0A825'
+    - '#40627C'
+    - '#26393D'
+    - '#FFFAE4'
+name: suits
