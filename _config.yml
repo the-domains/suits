@@ -11,6 +11,10 @@ color:
     - '#5C6B73'
     - '#253237'
 layout_spectrum: 0.3371480558998883
+author:
+  url: www.ehestu.ee
+  name: Ehestu OÜ
+  email: info@ehestu.ee
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/84df7a42-163c-43dc-b1e0-3f3b169201c7.png
 name: Ehestu disaini blogi
